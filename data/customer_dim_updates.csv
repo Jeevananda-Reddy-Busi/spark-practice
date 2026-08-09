@@ -1,0 +1,5 @@
+customer_id,customer_name,region,updated_at
+C002,Bob Singh,North,2024-02-01
+C004,David Kim,South,2024-02-01
+,Eve Torres,South,2024-02-01
+C003,Carol Mehta,East,2024-02-01

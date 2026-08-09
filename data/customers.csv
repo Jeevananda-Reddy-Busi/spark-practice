@@ -1,0 +1,6 @@
+customer_id,customer_name,signup_date,region
+C001,Alice Johnson,2023-11-01,West
+C002,Bob Singh,2023-11-15,East
+C003,Carol Mehta,2023-12-01,East
+C004,David Kim,2024-01-02,North
+C005,Eve Torres,2024-01-03,South
