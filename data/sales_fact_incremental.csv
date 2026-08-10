@@ -1,0 +1,4 @@
+transaction_id,customer_id,amount,txn_date
+T003,C001,75.00,2024-05-02
+T004,C003,300.00,2024-05-03
+T005,C002,50.00,2024-05-03

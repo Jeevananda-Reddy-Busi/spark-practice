@@ -1,0 +1,7 @@
+product_id,product_name,quantity,unit_price
+P001,Widget A,50,9.99
+P002,Widget B,-5,4.50
+P003,Widget C,20,0
+P004,Widget D,30,15.00
+P005,Widget E,0,5.00
+P006,Widget F,-2,-3.00
