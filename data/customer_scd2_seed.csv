@@ -1,0 +1,4 @@
+customer_id,customer_name,region,effective_start_date,effective_end_date,is_current
+C001,Alice Johnson,West,2024-01-01,,true
+C002,Bob Singh,East,2024-01-01,,true
+C003,Carol Mehta,East,2024-01-01,,true
