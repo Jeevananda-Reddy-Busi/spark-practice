@@ -1,0 +1,8 @@
+customer_id,customer_name,email,updated_at
+C001,Alice Johnson,alice@x.com,2024-10-01 08:00:00
+C001,Alice J.,alice.j@x.com,2024-10-01 09:30:00
+C002,Bob Singh,bob@x.com,2024-10-01 08:15:00
+C003,Carol Mehta,carol@x.com,2024-10-01 08:20:00
+C003,Carol M.,carol.m@x.com,2024-10-01 08:45:00
+C003,Carol Mehta,carol.mehta@x.com,2024-10-01 10:00:00
+C004,David Kim,david@x.com,2024-10-01 09:00:00

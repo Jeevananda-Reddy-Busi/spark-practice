@@ -1,0 +1,4 @@
+{"order_id":"O1","product_id":"P001","qty":3,"price":10.0,"discount":2.0}
+{"order_id":"O2","product_id":"P002","qty":1,"price":25.0}
+{"order_id":"O3","product_id":"P003","qty":2,"price":40.0,"discount":5.0}
+{"order_id":"O4","product_id":"P001","qty":5,"price":10.0}
