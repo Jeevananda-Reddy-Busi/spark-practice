@@ -1,0 +1,2 @@
+{"order_id":"O1","customer":{"customer_id":"C001","name":"Alice","address":{"city":"Hyderabad","state":"TS"}},"items":[{"product":"Widget A","qty":2,"price":10.0,"tags":["sale","new"]},{"product":"Widget B","qty":1,"price":25.0,"tags":["premium"]}]}
+{"order_id":"O2","customer":{"customer_id":"C002","name":"Bob","address":{"city":"Chennai","state":"TN"}},"items":[{"product":"Widget C","qty":3,"price":5.0,"tags":[]}]}

@@ -1,0 +1,5 @@
+E0001Alice Johnson  Sales     00090000
+E0002Bob Singh      Sales     00085000
+E0003Carol Mehta    Engg      00120000
+E0004David Kim      Engg      00115000
+E0005Eve Torres     HR        00070000
