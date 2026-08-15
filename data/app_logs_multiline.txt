@@ -1,0 +1,9 @@
+2024-11-01 10:00:01 INFO Service started successfully
+2024-11-01 10:00:05 ERROR Failed to connect to database
+    Connection timeout after 30000ms
+    at com.app.db.Connector.connect(Connector.java:45)
+    at com.app.Main.start(Main.java:12)
+2024-11-01 10:00:10 INFO Retrying connection
+2024-11-01 10:00:15 ERROR Failed to connect to database
+    Connection refused
+2024-11-01 10:00:20 INFO Connection established
