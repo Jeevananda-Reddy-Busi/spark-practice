@@ -1,0 +1,4 @@
+{"txn_id":"T1","customer_id":"C001","amount":150.00,"txn_date":"2024-12-01"}
+{"txn_id":"T2","customer_id":"C002","amount":"200.50","txn_date":"2024-12-01"}
+{"txn_id":"T3","customer_id":"C003","amount":75.25,"txn_date":"2024-12-02"
+{"txn_id":"T4","customer_id":"C001","amount":"90.00","txn_date":"2024-12-02"}
