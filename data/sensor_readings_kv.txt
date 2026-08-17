@@ -1,0 +1,4 @@
+sensor_id=S1;timestamp=2024-12-01 10:00:00;temperature=22.5;humidity=45
+sensor_id=S2;timestamp=2024-12-01 10:00:00;temperature=19.8
+sensor_id=S1;timestamp=2024-12-01 10:05:00;temperature=22.7;humidity=44;pressure=1013
+sensor_id=S3;timestamp=2024-12-01 10:00:00;humidity=50;pressure=1012

@@ -1,0 +1,5 @@
+{"event_id":"E1","event_type":"click","user_id":"U1","timestamp":"2025-01-01 09:00:00","element_id":"btn-buy"}
+{"event_id":"E2","event_type":"purchase","user_id":"U1","timestamp":"2025-01-01 09:05:00","order_id":"O100","amount":49.99}
+{"event_id":"E3","event_type":"signup","user_id":"U2","timestamp":"2025-01-01 09:10:00","referral_code":"REF123"}
+{"event_id":"E4","event_type":"click","user_id":"U2","timestamp":"2025-01-01 09:15:00","element_id":"btn-home"}
+{"event_id":"E5","event_type":"purchase","user_id":"U2","timestamp":"2025-01-01 09:20:00","order_id":"O101","amount":15.00}
