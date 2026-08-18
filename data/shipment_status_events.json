@@ -1,0 +1,10 @@
+{"shipment_id":"SH1001","status":"CREATED","status_time":"2025-02-01 08:00:00"}
+{"shipment_id":"SH1001","status":"PICKED_UP","status_time":"2025-02-01 10:00:00"}
+{"shipment_id":"SH1001","status":"IN_TRANSIT","status_time":"2025-02-01 14:00:00"}
+{"shipment_id":"SH1001","status":"DELIVERED","status_time":"2025-02-02 09:00:00"}
+{"shipment_id":"SH1002","status":"CREATED","status_time":"2025-02-01 09:00:00"}
+{"shipment_id":"SH1002","status":"PICKED_UP","status_time":"2025-02-01 11:30:00"}
+{"shipment_id":"SH1002","status":"IN_TRANSIT","status_time":"2025-02-01 15:00:00"}
+{"shipment_id":"SH1003","status":"CREATED","status_time":"2025-02-01 07:30:00"}
+{"shipment_id":"SH1003","status":"IN_TRANSIT","status_time":"2025-02-01 12:00:00"}
+{"shipment_id":"SH1003","status":"DELIVERED","status_time":"2025-02-01 20:00:00"}

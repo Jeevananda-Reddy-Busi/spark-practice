@@ -1,0 +1,5 @@
+emp_id|name|department|skills
+E001|Alice Johnson|Engineering|Python,Spark,SQL
+E002|Bob Singh|Engineering|Java,Spark
+E003|Carol Mehta|Analytics|SQL,Tableau,Python
+E004|David Kim|Engineering|Python,Java,SQL
